@@ -1,9 +1,9 @@
 # main text of home
 name: Nakul Javali
-bio: Software Engineer, Triathlete, Food, Memer(?)
+bio: Software Engineer, Triathlete, Foodie, Memer(?)
 
-# twitter summary info
-description: A blog about technology and stuff related
+#  summary info
+description: Ramdom Musings
 
 # if it's an external image, update below for true
 # better with square images
@@ -14,9 +14,9 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://bit.ly/nakuljavali-resume
 
-url: https://nakuljavali.github.io/
+url: https://nakuljavali.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -34,29 +34,29 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: nakuljavali
+twitter: nakuljavali
 # google: mygoogle
-# instagram: myinstagram
+instagram: nakul.javali
 # pinterest: mypinterest
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: nakuljavali
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+medium: nakuljavali
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: javali@usc.edu
 
 authors:
     nakul javali:
         name: Nakul Javali
-        bio: A Man who travels the world eating noodles
+        bio: Software Engineer, Triathlete, Foodie, Memer(?)
         external-image: false
         picture: assets/images/profile.jpg
         twitter: nakuljavali
